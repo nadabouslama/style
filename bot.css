@@ -2,7 +2,7 @@
 .bpw-layout .bpw-chat-container .bpw-anim-none{
 height:500px;
 }
-.bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+.bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content{
      border-radius: 0% 8px 8px 8px;
     background-color:#e6e6e6;
     margin-bottom:10px;
