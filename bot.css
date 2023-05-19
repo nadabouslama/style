@@ -1,9 +1,20 @@
+    /* these are messages from the bot  */
+.bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+     border-radius: 0% 8px 8px 8px;
+    background-color:#e6e6e6;
+}
+    /* these are messages from the user  */
+.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content{
+     border-radius:8px 0% 8px 8px;
+    background-color:#b3d9ff;
+}
+
 .bpw-header-container {
     /* sets the background color of the element */
     background: #f8f9fa;
    
     /* sets the border radius of the element (repeated declaration) */
-    border-radius: 0.66rem;
+    border-radius: 2px;
     /* sets the padding of the element */
     padding: 0.66rem;
     letterSpacing: 1px;
