@@ -1,10 +1,20 @@
+.bpw-header-container {
+    /* sets the background color of the element */
+    background: #f8f9fa;
+   
+    /* sets the border radius of the element (repeated declaration) */
+    border-radius: 0.66rem;
+    /* sets the padding of the element */
+    padding: 0.66rem;
+    letterSpacing: 1px;
+}
 * Styles for the send button when it is disabled */
 .bpw-send-button:disabled,
 .bpw-send-button:disabled:hover {
     /* Sets the opacity to 0.4 to make the button appear slightly transparent */
     opacity: 0.4;
     /* Sets the background color to a variable named "--theme-primary" */
-    background-color: #1a8cff;
+    background-color:#F0F8FF;
     /* Changes the cursor to the default cursor */
     cursor: default;
 }
@@ -23,16 +33,12 @@
     display: flex; /* Set the button to be arranged using flexible layout */
     justify-content: center; /* Center the button's content horizontally */
     align-items: center; /* Center the button's content vertically */
-    border-radius: var(--spacing-medium); /* Make the corners of the button slightly rounded */
     background-color: #1a8cff; /* Give the button a primary color background */
     padding: 20px; /* Add some extra space around the button's content */
     width: 24px; /* Set the button's width to be 24 pixels */
     height: 24px; /* Set the button's height to be 24 pixels */
-    color: transparent; /* Hide any text that might appear inside the button */
-    cursor: pointer; /* Show the pointer cursor when the button is hovered over */
-    background-image: url(./button.png) !important; /* Add an image to the button */
-    background-repeat: no-repeat !important; /* Don't repeat the image */
-    background-position: center !important; /* Center the image inside the button */
+    color: black; /* Hide any text that might appear inside the button */
+    cursor: pointer; /* Show the pointer cursor when the button is hovered over *
     transition: background-color 0.2s; /* Make the button's background color change smoothly over a short period of time */
 }
 
