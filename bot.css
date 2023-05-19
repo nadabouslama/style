@@ -1,5 +1,5 @@
     /* these are messages from the bot  */
-.bp-web-widget-container{
+.bpw-layout bpw-chat-container bpw-anim-none{
     height:700px;
     width:700px;
 }
