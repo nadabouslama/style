@@ -49,8 +49,7 @@
     background-color: #1a8cff; /* Give the button a primary color background */
     padding: 20px; /* Add some extra space around the button's content */
     width: 24px; /* Set the button's width to be 24 pixels */
-    margin-left:20px;
-    margin-right:20px;
+  
     height: 24px; /* Set the button's height to be 24 pixels */
     color: black; /* Hide any text that might appear inside the button */
     cursor: pointer; /* Show the pointer cursor when the button is hovered over *
