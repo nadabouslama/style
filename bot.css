@@ -18,13 +18,13 @@
     transition: none;
     visibility: none;
 }
-}
+
 .bp-widget-side {
     bottom:auto;
     height: auto;
     width: auto;
 }
-bpw-layout bpw-chat-container bpw-anim-none {
+.bpw-layout .bpw-chat-container .bpw-anim-none {
     width:100%;
 }
 .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content{
