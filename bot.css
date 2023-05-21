@@ -19,11 +19,6 @@
     visibility: none;
 }
 
-.bp-widget-side {
-    bottom:auto;
-    height: auto;
-    width: auto;
-}
 .bpw-layout .bpw-chat-container .bpw-anim-none {
     width:100%;
 }
