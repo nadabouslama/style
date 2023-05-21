@@ -1,4 +1,4 @@
-    /* these are messages from the bot  */
+     /* these are messages from the bot  */
 #bp-web-widget-container{
     position: relative;
     height:70vh;
@@ -53,7 +53,6 @@
     border-radius: 2px;
     /* sets the padding of the element */
     padding: 0.66rem;
-    letterSpacing: 1px;
 }
 * Styles for the send button when it is disabled */
 .bpw-send-button:disabled,
