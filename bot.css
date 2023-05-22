@@ -1,4 +1,19 @@
      /* these are messages from the bot  */
+.bpw-layout {
+    -webkit-box-orient: vertical;
+    border-left: 1px solid #ccc;
+    bottom: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100%;
+    position: absolute;
+}
+.bpw-layout .bpw-chat-container .bpw-anim-fadeIn{
+width:100%;
+}
 #bp-web-widget-container{
     position: relative;
     height:70vh;
