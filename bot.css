@@ -3,19 +3,12 @@ element.style {
     width: 100%;
 }
 .bpw-layout {
-    -webkit-box-orient: vertical;
-    border-left: 1px solid #ccc;
-    bottom: 0;
-    display: -webkit-box;
-    display: -ms-flexbox;
+    border: 1px solid #ccc;
     display: flex;
     -ms-flex-direction: column;
     flex-direction: column;
     height: 100%;
     position: absolute;
-}
-.bpw-layout .bpw-chat-container .bpw-anim-fadeIn{
-width:100%;
 }
 #bp-web-widget-container{
     position: relative;
