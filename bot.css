@@ -1,4 +1,7 @@
      /* these are messages from the bot  */
+element.style {
+    width: 100%;
+}
 .bpw-layout {
     -webkit-box-orient: vertical;
     border-left: 1px solid #ccc;
