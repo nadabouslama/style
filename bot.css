@@ -93,4 +93,5 @@ element.style {
 .bpw-composer-inner {
     display: flex;
     padding-right: 10px;
+    padding-bottom:10px;
 }
