@@ -1,14 +1,16 @@
      /* these are messages from the bot  */
-   #bp-web-widget-container {
-  width: 70%;
+.bpw-layout {
+    -webkit-box-orient: vertical;
+    border: 1px solid #ccc;
+    bottom: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100%;
+    position: absolute;
 }
-#bp-web-widget-container .bp-widget-web {
-  width: 100%;
-  position: relative !important;
-  margin: 0 auto;
-  height: 90vh !important;
-}
-
 .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content{
      border-radius: 0% 8px 8px 8px;
     background-color:#e6e6e6;
