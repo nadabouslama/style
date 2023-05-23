@@ -36,13 +36,10 @@ element.style {
 }
 
 .bpw-header-container {
-    /* sets the background color of the element */
     background: #f8f9fa;
-   
-    /* sets the border radius of the element (repeated declaration) */
     border-radius: 2px;
-    /* sets the padding of the element */
     padding: 0.66rem;
+    height:3.125rem;
 }
 * Styles for the send button when it is disabled */
 .bpw-send-button:disabled,
