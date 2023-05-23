@@ -81,7 +81,7 @@ element.style {
 .bpw-send-button:not(:disabled):hover {
     background-color: #b3d9ff; /* Change the button's background color to a different color when it's being hovered over */
 }
-bpw-composer {
+.bpw-composer {
     background: hsla(0,0%,100%,.9);
     border-top: 1px solid #aaa;
     outline: none;
@@ -89,4 +89,8 @@ bpw-composer {
     position: relative;
     transition: border .3s ease;
     height: 3.75rem;
+}
+.bpw-composer-inner {
+    display: flex;
+    padding-right: 10px;
 }
