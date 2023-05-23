@@ -39,6 +39,8 @@ element.style {
     border-radius: 2px;
     padding: 0.66rem;
     height:2.60rem;
+    border-bottom: none;
+    border-top: none;
 }
 * Styles for the send button when it is disabled */
 .bpw-send-button:disabled,
