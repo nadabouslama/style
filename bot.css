@@ -34,12 +34,12 @@ element.style {
      padding-bottom:10px;
     color:black;
 }
-
+.bpw-header-container
 .bpw-header-container {
     background: #f8f9fa;
     border-radius: 2px;
     padding: 0.66rem;
-    height:3.125rem;
+    height:2.60rem;
 }
 * Styles for the send button when it is disabled */
 .bpw-send-button:disabled,
