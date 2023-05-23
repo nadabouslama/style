@@ -1,4 +1,10 @@
      /* these are messages from the bot  */
+.bpw-layout.bpw-chat-container.bpw-anim-fadeIn {
+    width: 100%;
+}
+element.style {
+     width: 0px; 
+}
 .bpw-layout {
     -webkit-box-orient: vertical;
     border: 3px solid #ccc;
