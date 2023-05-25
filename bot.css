@@ -43,6 +43,23 @@ element.style {
     border-top: none;
 }
 * Styles for the send button when it is disabled */
+.bpw-button {
+    align-items: flex-start;
+    border: 1px solid lightblue;
+    border-radius: 7px;
+    cursor: pointer;
+    margin: 3px 2px;
+    min-height: 40px;
+    overflow: visible;
+    text-align: center;
+    text-transform: none;
+}
+.bpw-button  .bpw-button-alt {
+    background-color: aliceblue;
+    font-size: 1rem;
+    min-width: 5rem;
+    padding: .4rem .8rem;
+}
 .bpw-send-button:disabled,
 .bpw-send-button:disabled:hover {
     /* Sets the opacity to 0.4 to make the button appear slightly transparent */
