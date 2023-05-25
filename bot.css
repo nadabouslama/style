@@ -69,7 +69,7 @@ element.style {
     justify-content: center; /* Center the button's content horizontally */
     align-items: center; /* Center the button's content vertically */
     background-color: #0d6efd; /* Give the button a primary color background */
-    padding: 22px; /* Add some extra space around the button's content */
+    padding: 17px; /* Add some extra space around the button's content */
     width: 19px; /* Set the button's width to be 24 pixels */
     border: 4px solid #0d6efd;
     height: 18px; /* Set the button's height to be 24 pixels */
