@@ -60,7 +60,7 @@ element.style {
     align-items: center; /* Center the button's content vertically */
     background-color: #0d6efd; /* Give the button a primary color background */
     padding: 17px; /* Add some extra space around the button's content */
-    width: 19px; /* Set the button's width to be 24 pixels */
+    width: 24px; /* Set the button's width to be 24 pixels */
     border: 1px solid #0d6efd;
     border-radius: 4px;
     height: 18px; /* Set the button's height to be 24 pixels */
