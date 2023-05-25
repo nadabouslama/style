@@ -69,10 +69,10 @@ element.style {
     justify-content: center; /* Center the button's content horizontally */
     align-items: center; /* Center the button's content vertically */
     background-color: #0d6efd; /* Give the button a primary color background */
-    padding: 20px; /* Add some extra space around the button's content */
+    padding: 10px; /* Add some extra space around the button's content */
     width: 24px; /* Set the button's width to be 24 pixels */
     border: 4px solid #0d6efd;
-    height: 24px; /* Set the button's height to be 24 pixels */
+    height: 18px; /* Set the button's height to be 24 pixels */
     color: white; /* Hide any text that might appear inside the button */
     cursor: pointer; /* Show the pointer cursor when the button is hovered over *
     transition: background-color 0.2s; /* Make the button's background color change smoothly over a short period of time */
