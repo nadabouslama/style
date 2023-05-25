@@ -63,7 +63,7 @@ element.style {
     width: 24px; /* Set the button's width to be 24 pixels */
     border: 1px solid #0d6efd;
     border-radius: 4px;
-    height: 18px; /* Set the button's height to be 24 pixels */
+    height: 24px; /* Set the button's height to be 24 pixels */
     color: white; /* Hide any text that might appear inside the button */
     cursor: pointer; /* Show the pointer cursor when the button is hovered over *
     transition: background-color 0.2s; /* Make the button's background color change smoothly over a short period of time */
