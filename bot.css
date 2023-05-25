@@ -44,16 +44,6 @@ element.style {
 }
 * Styles for the send button when it is disabled */
 
-.bpw-send-button:disabled,
-.bpw-send-button:disabled:hover {
-    /* Sets the opacity to 0.4 to make the button appear slightly transparent */
-    opacity: 0.4;
-    /* Sets the background color to a variable named "--theme-primary" */
-    background-color:#0d6efd;
-    /* Changes the cursor to the default cursor */
-    cursor: default;
-}
-
 /* Styles for the container holding the send buttons */
 .bpw-send-buttons {
     /* Sets the display mode to flex and the direction to horizontal */
@@ -80,7 +70,7 @@ element.style {
 
 /* This is the CSS style for the button that sends a message when it's not disabled and is being hovered over */
 
-.bpw-send-button:not(:disabled):hover {
+.bpw-send-button:hover {
     background-color:#0a58ca; /* Change the button's background color to a different color when it's being hovered over */
 }
 .bpw-composer {
