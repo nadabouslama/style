@@ -1,4 +1,24 @@
      /* these are messages from the bot  */
+.bpw-msg-list-container {
+    -webkit-box-flex: 1;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex: 1;
+    flex: 1;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-height: 1px;
+    background-color: lightsteelblue;
+}
+.react-scroll-to-bottom--css-ryvsz-1n7m0yu {
+    height: 100%;
+    overflow-y: auto;
+    width: 100%;
+    background-color: lightsteelblue;
+}
 .bpw-layout.bpw-chat-container.bpw-anim-fadeIn {
     width: 100%;
 }
