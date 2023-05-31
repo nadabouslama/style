@@ -12,13 +12,13 @@
     -ms-flex-direction: column;
     flex-direction: column;
     min-height: 1px;
-    background-color: lightsteelblue;
+    background-color: #f2f2f2;
 }
 .react-scroll-to-bottom--css-ryvsz-1n7m0yu {
     height: 100%;
     overflow-y: auto;
     width: 100%;
-    background-color: lightsteelblue;
+    background-color: #f2f2f2;
 }
 .bpw-layout.bpw-chat-container.bpw-anim-fadeIn {
     width: 100%;
