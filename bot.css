@@ -84,7 +84,8 @@
     height: 24px;
     color: white;
     cursor: pointer;
-    margin-top: 10px;/
+    margin-top: 10px;
+    margin-right:5px;
 }
 
 /* This is the CSS style for the button that sends a message when it's not disabled and is being hovered over */
