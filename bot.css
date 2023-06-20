@@ -109,3 +109,10 @@
     width: 100%;
     margin-left: 10px;
 }
+.bpw-button, .bpw-button-alt {
+    background-color: #b2dfff;
+    font-size: 1rem;
+    min-width: 5rem;
+    border-radius: 5px;
+    padding: .4rem .8rem;
+}
