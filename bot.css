@@ -118,3 +118,17 @@
      border-color: aliceblue;
      pointer-events: none;
 }
+.bpw-convo-item {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 4.7rem;
+    padding-left: 15px;
+    background-color: gainsboro;
+    border-radius: 5px;
+}
