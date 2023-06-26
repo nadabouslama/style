@@ -116,7 +116,6 @@
     border-radius: 5px;
     padding: .4rem .8rem;
      border-color: aliceblue;
-     pointer-events: none;
 }
 .bpw-convo-item {
     -webkit-box-align: center;
