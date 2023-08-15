@@ -3,6 +3,25 @@ body{
 font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
+element.style {
+    width: 100%;
+}
+.bpw-anim-none {
+    visibility: visible;
+}
+.bpw-layout {
+    -webkit-box-orient: vertical;
+    bottom: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100%;
+    position: fixed;
+    right: 0;
+    border: none;
+}
 .bpw-composer-inner {
     display: flex;
     width: 100%;
