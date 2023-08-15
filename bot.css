@@ -63,18 +63,22 @@ element.style {
     background-color: #f2f2f2;
 }
 .bpw-convo-add-btn {
-    background: transparent;
-    border: 2px solid;
-    border-radius: 50%;
+    background: cornflowerblue;
+    border: 1px solid;
+    border-radius: 10%;
     cursor: pointer;
     float: right;
-    height: 40px;
+    height: 30px;
     order: 1;
     margin-bottom: 15px;
     margin-right: 15px;
     margin-top: 15px;
     padding: 0;
-    width: 40px;
+    width: 60px;
+}
+.bpw-convo-add-btn:hover {
+    background-color:#80b3ff; 
+box-shadow: 10px 10px 20px grey;
 }
 .bpw-convo-item {
     -webkit-box-align: center;
