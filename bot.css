@@ -101,7 +101,8 @@ transition: 0.25s;
     background-color: #e6e6e6;
 }
 .bpw-convo-item:hover {
-  box-shadow: 0 0 5px #80b3ff;
+background-color: #e6e6e6;
+  box-shadow: 0 0 5px grey;
 }
 .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content{
      border-radius: 0% 8px 8px 8px;
