@@ -75,11 +75,14 @@ element.style {
     margin-top: 15px;
     padding: 0;
     width: 60px;
+transition: 0.25s;
 }
-.bpw-convo-add-btn:hover {
-    background-color:#80b3ff; 
-box-shadow: 10px 10px 20px grey;
+.bpw-convo-add-btn:hover,
+.bpw-convo-add-btn:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
 }
+
 .bpw-convo-item {
     -webkit-box-align: center;
     -ms-flex-align: center;
